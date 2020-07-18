@@ -5,4 +5,8 @@ Git tracks changes of files.
 Git tracks changes of files.
 Git tracks changes of files.
 
+<<<<<<< HEAD
 master add line is "add one line"
+=======
+feature1 branch add line is " test ";
+>>>>>>> feature1
