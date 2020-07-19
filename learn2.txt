@@ -12,5 +12,9 @@ in branch dev add line for example:
 
 添加多一行，进行测试
 
+
 学习Git分支管理中的Bug分支
 $git stash
+
+现在添加一个修复bug的记录
+
