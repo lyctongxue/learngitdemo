@@ -7,3 +7,5 @@ Git tracks changes of files.
 
 in branch dev add line for example:
 	woshiyigezmyangdrenne
+	
+添加多一行文件
