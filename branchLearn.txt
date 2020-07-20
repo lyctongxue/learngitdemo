@@ -2,7 +2,10 @@
 
 git checkout -b dev origin/dev 
 
+
 git add branchLenrn.txt 添加文件
 
 git commit -m "提交文件"
 
+
+再次提交
